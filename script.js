@@ -37,10 +37,10 @@ const resumeData = {
     linkedin: 'https://linkedin.com/in/juaneduardosalinas',
     
     technicalSkills: [
-        'JavaScript', 'HTML/CSS', 'React', 'Node.js', 
-        'Python', 'APIs REST', 'Bootstrap', 'Git',
-        'SQL', 'MongoDB', 'Express', 'Vue.js',
-        'PHP', 'MySQL', 'Firebase', 'Docker'
+        'JavaScript', 'HTML/CSS', 'Node.js', 
+        'Python', 'Bootstrap', 'Git',
+        'SQL', 'Vue.js' , 'MySQL',
+        'PHP' , 'Excel'
     ],
     
     softSkills: [
