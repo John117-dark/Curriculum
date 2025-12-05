@@ -31,7 +31,7 @@ const resumeData = {
     title: 'Ingeniero en Sistemas Computacionales',
     email: 'juaneduardosalinaruiz2004@gmail.com',
     phone: '636-135-27-51',
-    location: 'Ciudad Juárez, Chihuahua',
+    location: 'Nuevo Casas Grandes, Chihuahua',
     bio: 'Ingeniero en Sistemas Computacionales apasionado por el desarrollo web y las nuevas tecnologías. Con experiencia en desarrollo full stack y capacidad para resolver problemas complejos de manera innovadora.',
     github: 'https://github.com/john117-dark',
     linkedin: 'https://linkedin.com/in/juaneduardosalinas',
@@ -64,17 +64,6 @@ const resumeData = {
                 'Desarrollo de habilidades interpersonales que mejoraron la atención al cliente',
                 'Optimización de procesos de cobro',
                 'Trabajo efectivo en equipo'
-            ]
-        },
-        {
-            period: '2023 - 2024',
-            role: 'Desarrollador Frontend',
-            company: 'Otra Empresa',
-            description: 'Desarrollo de interfaces de usuario con React y Vue.js. Implementación de diseños responsivos.',
-            achievements: [
-                'Creación de 10+ componentes reutilizables',
-                'Mejora de experiencia de usuario',
-                'Integración con APIs de terceros'
             ]
         }
     ],
