@@ -292,13 +292,6 @@ function renderContact() {
             value: 'github.com/john117-dark',
             link: resumeData.github,
             isLink: true
-        },
-        {
-            icon: 'fab fa-linkedin',
-            label: 'LinkedIn',
-            value: 'linkedin.com/in/tuperfil',
-            link: resumeData.linkedin,
-            isLink: true
         }
     ];
     
