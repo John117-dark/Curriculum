@@ -117,7 +117,6 @@ document.addEventListener('DOMContentLoaded', function() {
     renderSoftSkills();
     renderExperience();
     renderEducation();
-    renderCertifications();
     renderContact();
     updateNavbar();
     
