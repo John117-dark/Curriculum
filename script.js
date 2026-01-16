@@ -29,12 +29,11 @@ function renderCertifications() {
 const resumeData = {
     name: 'Juan Eduardo Salinas Ruiz',
     title: 'Ingeniero en Sistemas Computacionales',
-    email: 'juaneduardosalinaruiz2004@gmail.com',
+    email: 'crackdown2004@outlook.com',
     phone: '636-135-27-51',
     location: 'Nuevo Casas Grandes, Chihuahua',
     bio: 'Ingeniero en Sistemas Computacionales apasionado por el desarrollo web y las nuevas tecnologías. Con experiencia en desarrollo full stack y capacidad para resolver problemas complejos de manera innovadora.',
     github: 'https://github.com/john117-dark',
-    linkedin: 'https://linkedin.com/in/juaneduardosalinas',
     
     technicalSkills: [
         'JavaScript', 'HTML/CSS', 'Node.js', 
@@ -49,9 +48,7 @@ const resumeData = {
         'Pensamiento crítico',
         'Creatividad',
         'Comunicación efectiva',
-        'Liderazgo',
         'Adaptabilidad',
-        'Gestión del tiempo'
     ],
     
     experience: [
@@ -84,16 +81,7 @@ const resumeData = {
     ],
     
     certifications: [
-        {
-            name: 'Certificado en React JS',
-            issuer: 'Platforma Online',
-            year: '2024'
-        },
-        {
-            name: 'Certificado en Node.js y Express',
-            issuer: 'Platforma Online',
-            year: '2023'
-        }
+        
     ]
 };
 
